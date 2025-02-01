@@ -1,0 +1,14 @@
+C:\Users\eikma\RiderProjects\Cipher\Cipher\bin\Debug\net8.0\Cipher.exe
+C:\Users\eikma\RiderProjects\Cipher\Cipher\bin\Debug\net8.0\Cipher.deps.json
+C:\Users\eikma\RiderProjects\Cipher\Cipher\bin\Debug\net8.0\Cipher.runtimeconfig.json
+C:\Users\eikma\RiderProjects\Cipher\Cipher\bin\Debug\net8.0\Cipher.dll
+C:\Users\eikma\RiderProjects\Cipher\Cipher\bin\Debug\net8.0\Cipher.pdb
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\Cipher.AssemblyInfoInputs.cache
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\Cipher.AssemblyInfo.cs
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\Cipher.csproj.CoreCompileInputs.cache
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\Cipher.dll
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\refint\Cipher.dll
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\Cipher.pdb
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\Cipher.genruntimeconfig.cache
+C:\Users\eikma\RiderProjects\Cipher\Cipher\obj\Debug\net8.0\ref\Cipher.dll
